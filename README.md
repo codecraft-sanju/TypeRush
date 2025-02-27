@@ -34,19 +34,5 @@ To run the project in your local environment, follow these steps:
 3. Run `npm run start` or `yarn start` to get the project started.
 4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
 
-## 💡 Improvements
-
-- **Leaderboard**: Add a leaderboard to make it more competitive.
-- **Your Own Texts**: Let you practice with whatever text you want.
-- **More Stats**: Offer detailed stats to show how you're improving over time.
-- **User Accounts**: Make accounts so you can pick up where you left off on any device.
-
-## 🐞 Issues
-
-- Right now, it doesn't work well on phones.
-
-## 📸 Video
-
-https://github.com/mirayatech/TypeRush/assets/71933266/c809db71-fd1a-481f-8f18-6f4a3a6fef11
 
 
